@@ -1,1 +1,1 @@
-simply.title('Hello World!');
+alert( 'Hello, world!' );
