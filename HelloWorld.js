@@ -1,2 +1,1 @@
-
 simply.title('Hello World!');
